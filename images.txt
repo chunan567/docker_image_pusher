@@ -1,2 +1,2 @@
 nginx
-rancher/kube-apiserver
+kube-apiserver
