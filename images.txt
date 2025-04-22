@@ -1,2 +1,1 @@
-nginx
-busybox
+docker.io/busybox:latest
