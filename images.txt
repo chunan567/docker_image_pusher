@@ -1,1 +1,1 @@
-verdaccio/verdaccio:6.x-next
+jenkins:2.60.3-alpine
