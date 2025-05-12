@@ -1,1 +1,1 @@
-jenkins/jenkins:2.504.1-lts-jdk17
+portainer/portainer-ce:alpine
