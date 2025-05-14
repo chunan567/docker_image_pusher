@@ -1,1 +1,1 @@
-dockurr/samba:latest
+coturn/coturn:edge-debian
