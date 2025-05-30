@@ -1,1 +1,1 @@
-coturn/coturn:edge-debian
+mysql:8.0.42-debian
