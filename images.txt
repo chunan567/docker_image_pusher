@@ -1,1 +1,1 @@
-mysql:8.0.42-debian
+openjdk:11-jre-slim
