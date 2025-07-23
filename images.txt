@@ -1,1 +1,1 @@
-jiyecafe/wechat-devtools-build:v1.0.4
+node:18.0
